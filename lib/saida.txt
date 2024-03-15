@@ -1,0 +1,4 @@
+ 00c0e Opcode: LDA Label: NUM1
+ 18c0f|c0e Operação com dois operandos
+ 24c0e|c0f Operação com dois operandos
+ 0Cc10 Opcode: STA Label: RESULT
